@@ -23,8 +23,8 @@ I'm a **Cloud-Native DevOps Consultant** helping startups and tech teams build s
 
 ## 📫 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/erdi-dogruel)
-- 🌐 [dogruel.me](https://permtech.de)
+- 💼 [LinkedIn](https://www.linkedin.com/in/erdidogruel)
+- 🌐 [permtech.de](https://permtech.de)
 - 📬 erdi.dogruel@permtech.de
 
 Let's automate your infrastructure!
